@@ -1,0 +1,16 @@
+{
+  "name": "api-brasileirao-2024",
+  "version": "1.0.0",
+  "description": "Minicurso de NodeJS - criando um backend com JavaScript com o Hashtag Programação",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Douglas Nunes",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
